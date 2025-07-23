@@ -10,6 +10,11 @@ An intelligent AI-powered assistant that converts natural language questions int
 🌐 Simple and responsive frontend using HTML & CSS <br>
 🔒 Secure API key handling via .env <br>
 
+## 🚀 Live Demo
+
+Try the live app here: [Ecommerce AI Agent on Render](https://ecommerce-ai-agent-1.onrender.com/)
+
+
 ## 📁 Project Structure<br>
 Ecommerce-AI-Agent/<br>
 ├── api/<br>
