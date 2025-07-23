@@ -83,8 +83,9 @@ Ask any of these in the text area:
 
 ## 👤 Author
 
-  Jahnavi Arthamuri
-  GitHub Profile
+**Jahnavi Arthamuri**  
+[GitHub Profile](https://github.com/Jahnavi987-A)
+
 
 
    
